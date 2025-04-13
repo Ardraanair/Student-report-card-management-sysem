@@ -1,9 +1,8 @@
 
 # 🎓 Student Report Card System
+# 📌 Project Overview
+This project allows users (teachers/admins) to enter, manage, and retrieve student academic details. It includes options to store marks, calculate results, and generate a report card. The backend is handled using MySQL, and the interface/logic is built using Python 3.6.
 
-This is my **Class XII CBSE Computer Science Investigatory Project**, titled **"Student Report Card"**, built using **Python** and **MySQL**. It was submitted as part of the AISSCE March 2023 board exam requirement at **Sree Narayana Public School, Gurudevapuram**.
-
-The project demonstrates how student marks can be stored, processed, and displayed in a clean, structured report format using basic programming and database concepts.
 <p align="centre">
     <img src="https://github.com/Ardraanair/Student-report-card-management-sysem/blob/abd2c34b2f4367c5345a74fbef70d3383493ad4e/student%20report%20card.png" alt="dbshs" width="600" height="500"/>
 </p>

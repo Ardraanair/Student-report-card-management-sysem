@@ -5,7 +5,7 @@ This is my **Class XII CBSE Computer Science Investigatory Project**, titled **"
 
 The project demonstrates how student marks can be stored, processed, and displayed in a clean, structured report format using basic programming and database concepts.
 <p align="centre">
-    <img src="https://github.com/Ardraanair/Student-report-card-management-sysem/blob/abd2c34b2f4367c5345a74fbef70d3383493ad4e/student%20report%20card.png" alt="dbshs" width="300"/>
+    <img src="https://github.com/Ardraanair/Student-report-card-management-sysem/blob/abd2c34b2f4367c5345a74fbef70d3383493ad4e/student%20report%20card.png" alt="dbshs" width="600" height="500"/>
 </p>
 ---
 

@@ -1,5 +1,5 @@
 
-# 🎓 Student Report Card System
+#  Student Report Card System
 # 📌 Project Overview
 This project allows users (teachers/admins) to enter, manage, and retrieve student academic details. It includes options to store marks, calculate results, and generate a report card. The backend is handled using MySQL, and the interface/logic is built using Python 3.6.
 
